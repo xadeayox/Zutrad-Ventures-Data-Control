@@ -8,7 +8,7 @@ interface ReportMessageProps {
     onStatusChange: () => void;
 }
 
-const imageURL = 'http://localhost:5000/';
+const imageURL = 'https://zutrad-ventures-data-control.onrender.com/';
 // http://localhost:5000/
 // http://zutrad-ventures-data-control-env.eba-kpm7wuuy.eu-north-1.elasticbeanstalk.com/
 // https://zutrad-ventures-data-control.onrender.com/

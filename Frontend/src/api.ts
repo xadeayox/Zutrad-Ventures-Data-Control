@@ -8,7 +8,7 @@
 // This means no matter which page the user is on, if their token expires,
 // they will be sent back to the login page automatically.
 
-const BASE_URL = 'http://localhost:5000';
+const BASE_URL = 'https://zutrad-ventures-data-control.onrender.com';
 // replace with: http://zutrad-ventures-data-control-env.eba-kpm7wuuy.eu-north-1.elasticbeanstalk.com
 // http://localhost:5000
 // https://zutrad-ventures-data-control.onrender.com
