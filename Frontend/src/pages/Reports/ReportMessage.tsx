@@ -11,6 +11,7 @@ interface ReportMessageProps {
 const imageURL = 'http://localhost:5000/';
 // http://localhost:5000/
 // http://zutrad-ventures-data-control-env.eba-kpm7wuuy.eu-north-1.elasticbeanstalk.com/
+// https://zutrad-ventures-data-control.onrender.com/
 
 export function ReportMessage({ report, userRole, onStatusChange }: ReportMessageProps) {
     const [selectedImage, setSelectedImage] = useState<string | null>(null);
